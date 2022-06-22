@@ -16,7 +16,7 @@
 <div>	
 	<a name="Null_if"> <strong> &#129094 Null if </strong> </a>
 	<p align="center">
-   <img src="Null_if.png" alt="[YOUR_ALT]"/>
+   <img src="Null_if.png" width="30%" height="30%" alt="[YOUR_ALT]"/> 
   </p>
 </div>	
 
